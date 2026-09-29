@@ -1,9 +1,8 @@
-[README.md](https://github.com/user-attachments/files/32822256/README.md)
 # DSA521S Group Mini-Project 2026 — NUST Service Centre Simulation
 
 **Group Number:** 2
 
-**Submitted by: 223118958 – Andreas Niipare**
+**Submitted by: 2231118958 – Andreas Niipare**
 
 **Group Members:**
 
@@ -15,7 +14,7 @@
 | Allan Makhosa Lunga | 225061333 |
 | Ndahafa Ngishoongele | 223032344 |
 
-**GitHub Repository:** (https://github.com/Andreasnii225/DSA521S_Group2_Project2026)
+**GitHub Repository:** https://github.com/Andreasnii225/DSA521S_Group2_Project2026
 
 ---
 
